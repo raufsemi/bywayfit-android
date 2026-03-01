@@ -1,8 +1,11 @@
-# Byway Fit 🏃‍♂️ 💪
+# BYWAY FIT 🏃‍♂️ 💪
 
-A Flutter-based fitness app that helps you **track, monitor, and visualize your activities**. Whether you run, cycle, or hike, **Byway Fit** keeps you motivated with **real-time metrics, history, and personalized insights**.  
+A mobile fitness app that helps you **track, monitor, and visualize your activities**. Whether you run, cycle, briskwalk or hike, **Byway Fit** keeps you motivated with **real-time metrics, history, and personalized insights**.  
 
-[📲 Download on Google Play](https://play.google.com/store/apps/details?id=com.bywayfit)
+[![Get it on Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.bywayfit)
+
+
+
 
 ---
 
@@ -13,7 +16,6 @@ A Flutter-based fitness app that helps you **track, monitor, and visualize your 
 - Detailed activity history and analytics  
 - Notifications and reminders to hit your goals  
 - Profile management for preferences and targets  
-- Works seamlessly on Android and iOS  
 
 ---
 
