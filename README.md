@@ -2,7 +2,7 @@
 
 A mobile fitness app that helps you **track, monitor, and visualize your activities**. Whether you run, cycle, briskwalk or hike, **Byway Fit** keeps you motivated with **real-time metrics, history, and personalized insights**.  
 
-[![Get it on Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.bywayfit)
+[![Get it on Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.sahaily.bywayfit&pcampaignid=web_share)
 
 
 
