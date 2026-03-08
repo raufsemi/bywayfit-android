@@ -36,15 +36,3 @@ For support or feedback:  **https://t.me/bywayfit**
 
 
 
-
-
-## 🛠 Current Update
-
-**Status:** Submitted for review  
-
-> ⚠️ Note: This project is **not open source**. The source code is private as this app is part of my portfolio and also a startup initiative.  
-
-
-<div style="display: flex; flex-direction: row; gap: 5px;">
-  <img src="./misc/review.png" width="150" />
-</div>
